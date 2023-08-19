@@ -60,7 +60,6 @@ Go to the GitHub repository (https://github.com/kajanan1212/Supply-Chain-Managem
 
 Create a database with a desired name (assume ‘db_buymore’). Open the mysql command line client or MySQL workbench and execute CREATE DATABASE db_buymore; to create the database with the name ‘db_buymore’. Then execute the given sql file in this database.
 
-
 ## Program Execution
 
 1.	After Compiling, open the terminal and go to /backend directory and type “npm start” to run the backend server in the localhost. 
